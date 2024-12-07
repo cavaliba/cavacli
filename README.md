@@ -1,0 +1,2 @@
+# cavacli
+Cavaliba CLI client
